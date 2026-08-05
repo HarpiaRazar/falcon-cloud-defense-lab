@@ -1,0 +1,20 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Testes
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Variáveis e segredos locais
+.env
+*.env
+
+# Relatórios futuros
+reports/
+coverage.xml
